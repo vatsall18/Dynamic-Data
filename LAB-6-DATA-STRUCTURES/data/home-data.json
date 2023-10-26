@@ -1,0 +1,96 @@
+{
+    "title":"Welcome To Eagle",
+    "description":"Welcome to Eagle, your passport to unforgettable adventures! Whether you're an explorer, a wanderer, or a dreamer, we're here to take you on a journey like no other. Discover breathtaking destinations, find hidden gems, and experience the world's wonders with Eagle. Let your travel dreams take flight!",
+    "slideshow":[
+        "/img/slides/slide1.jpg",
+        "/img/slides/slide2.jpg",
+        "/img/slides/slide3.jpg"
+    ],
+    "services":[
+        {
+            "title":"Plan your Itinerary with an agent",
+            "intro":"We understand that every traveler is unique, and we're here to ensure your trip is tailor-made to your desires and interests. Let our expert travel agents transform your visit into an unforgettable journey through the City of Joy.",
+            "lists":[
+                "Craft a detailed and customized itinerary",
+                "Make restaurant and transportation reservations",
+                "Gain exclusive access to tourist spots and events"
+            ],
+            "image":"/img/homepage/home/itinerary.jpg",
+            "show":"show"
+        },
+        {
+            "title":"Get a local guide",
+            "intro":"There's no better way to explore the heart and soul of the city than with a knowledgeable local guide by your side. Our guides are passionate about sharing their insights, stories, and hidden gems, ensuring your visit to Kolkata is not just a trip, but an unforgettable journey.",
+            "lists":[
+                "Curate personalized tours based on your interests,",
+                "Get context and anecdotes that breathe life into the city's heritage",
+                "Language assistance with locals"
+            ],
+            "image":"/img/homepage/home/guide.jpg"
+        },
+        {
+            "title":"Book your vacation transportation",
+            "intro":"We ensure a seamless and stress-free journey to and from your destination.Sit back, relax, and let us take care of the logistics, so you can focus on making cherished memories during your vacation",
+            "lists":[
+                "Only get the most convenient and cost-effective flights or train tickets",
+                "Arrive in style with our airport and railway station transfer services",
+                "Get car rentals/chauffeur-driven vehicles/public transit guidance"
+            ],
+            "image":"/img/homepage/home/cars.jpg"
+        },
+        {
+            "title":"Learn about your destination",
+            "intro":"We believe that understanding the history, culture, and local nuances of your destination enriches your journey. Our aim is to equip you with knowledge that enhances your appreciation of the places you visit, creating a well-rounded and immersive travel adventure",
+            "lists":[
+                "Attend cultural workshops and classes",
+                "Get briefed on the history, traditions, and customs of your chosen destination",
+                "Learn the local language"
+            ],
+            "image":"/img/homepage/home/learn.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Two-Day Kolkata City Tour",
+            "image":"/img/homepage/home/twoday.jpg",
+            "text":"Experience the best of Kolkata in just two unforgettable days. Let us take you on a whirlwind journey through this vibrant city, ensuring you don't miss a single moment of its charm.",
+            "price":"150",
+            "duration":"2 Days"
+        },
+        {
+            "title":"One-Day Kolkata City Tour",
+            "image":"/img/homepage/home/oneday.jpg",
+            "text":"Discover the heart of Kolkata in one day with our all-inclusive city tour. We've condensed the city's essence into a whirlwind adventure, taking you to its most iconic landmarks and introducing you to its rich culture and flavor.",
+            "price":"75",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Explore the Victoria Memorial",
+            "image":"/img/homepage/home/victoria.jpg",
+            "text":"This immersive tour takes you through the splendid Victoria Memorial, a symbol of the city's colonial past. Discover its captivating history and art collection, surrounded by well-manicured gardens.",
+            "price":"30",
+            "duration":"2-5 Hours"
+        },
+        {
+            "title":"Visit the Howrah Bridge",
+            "image":"/img/homepage/home/howrah.jpg",
+            "text":"Explore the architectural marvel that is the Howrah Bridge, an emblem of the city's bustling charm. A journey through history and culture, this tour showcases the bridge's grandeur and its significance in Kolkata's vibrant tapestry",
+            "price":"20",
+            "duration":"2-3 Hours"
+        },
+        {
+            "title":"Street Food Tour",
+            "image":"/img/homepage/home/streetfood.jpg",
+            "text":"Savor the flavors of Kolkata as you traverse the bustling streets, sampling local delicacies like phuchka, kathi rolls, and more. Join us to discover the city's culinary soul, one delicious bite at a time",
+            "price":"80",
+            "duration":"4-6 Hours"
+        },
+        {
+            "title":"Art and History of Kolkata",
+            "image":"/img/homepage/home/art.jpg",
+            "text":"Explore the city's rich heritage through visits to renowned landmarks like the Indian Museum, Marble Palace, and South Park Street Cemetery. Let us guide you through the chapters of Kolkata's fascinating story.",
+            "price":"100",
+            "duration":"1 Day"
+        }
+    ]
+}

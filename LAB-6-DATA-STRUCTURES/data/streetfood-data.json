@@ -1,0 +1,96 @@
+{
+    "title":"Street Food",
+    "description":"Embark on a delectable journey through the bustling streets of Kolkata with our Street Food Tours. Delight your taste buds with the city's finest culinary treasures as we guide you through the vibrant, flavorful, and aromatic world of Kolkata's street food. Get ready to savor the authentic and mouthwatering delights that define the essence of this culinary haven.",
+    "slideshow":[
+        "/img/slides/food/food1.jpg",
+        "/img/slides/food/food2.jpg",
+        "/img/slides/food/food3.jpg"
+    ],
+    "services":[
+        {
+            "title":"Guided Food Tours",
+            "intro":"Embark on a flavorful journey through the heart of Kolkata with our Guided Street Food Tours. Our expert guides will lead you to the city's most beloved street food vendors.",
+            "lists":[
+                "Taste iconic snacks like phuchka and kathi rolls",
+                "Explore local markets and uncover hidden food gems",
+                "Learn about the history and culinary traditions of Kolkata's street food"
+            ],
+            "image":"/img/homepage/itinerary.jpg",
+            "show":"show"
+        },
+        {
+            "title":"Food Photography Workshops",
+            "intro":"Capture the vibrant colors and delicious flavors of Kolkata's street food with our Food Photography Workshops. Learn the art of food photography while savoring local treats.",
+            "lists":[
+                "Receive photography tips from professional instructors",
+                "Document the bustling atmosphere of street food stalls",
+                "Create a visual food diary of your culinary adventures"
+            ],
+            "image":"/img/homepage/guide.jpg"
+        },
+        {
+            "title":"Customized Street Food Trails",
+            "intro":"Tailor your street food adventure with our Customized Street Food Trails. Select your preferred food items and locations for a personalized experience.",
+            "lists":[
+                "Design a food trail that matches your specific tastes",
+                "Handpick your favorite street food vendors to visit",
+                "Explore the city's diverse food neighborhoods"
+            ],
+            "image":"/img/homepage/cars.jpg"
+        },
+        {
+            "title":"Vegetarian Street Food Tours",
+            "intro":"Delight in the diverse and mouthwatering vegetarian options Kolkata's street food has to offer with our Vegetarian Street Food Tours",
+            "lists":[
+                "Sample a variety of vegetarian street food delights",
+                "Learn about the city's vegetarian culinary history and influences",
+                "Taste regional specialties, like dhokar dalna and aloo posto"
+            ],
+            "image":"/img/homepage/learn.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Cooking Class with a Local",
+            "image":"/img/homepage/twoday.jpg",
+            "text":"Immerse yourself in the world of Kolkata's street food by joining Cooking Classes with Locals. Learn to prepare authentic dishes like a true Bengali",
+            "price":"20 per hour",
+            "duration":"1-2 Hours"
+        },
+        {
+            "title":"Food and Heritage Walks",
+            "image":"/img/homepage/oneday.jpg",
+            "text":"Combine a culinary adventure with a journey through Kolkata's rich heritage with our Food and Heritage Walks. Explore history and flavors in one experience",
+            "price":"15",
+            "duration":"1 Hour"
+        },
+        {
+            "title":"Evening Street Food Safaris",
+            "image":"/img/homepage/victoria.jpg",
+            "text":"Experience the lively and flavorsome evenings of Kolkata with our Evening Street Food Safaris. Savor the city's best street food as the sun sets",
+            "price":"30",
+            "duration":"2 Hours"
+        },
+        {
+            "title":"Street Food Challenges",
+            "image":"/img/homepage/howrah.jpg",
+            "text":"Put your taste buds to the test with our Street Food Challenges. Take on spicy, unique, or quantity-based challenges for a fun and memorable adventure",
+            "price":"10",
+            "duration":"30 mins"
+        },
+        {
+            "title":"Night Bites and Market Magic",
+            "image":"/img/homepage/streetfood.jpg",
+            "text":"Experience the enchanting world of Kolkata's night markets with our Night Bites and Market Magic package. Enjoy a delightful evening of street food, vibrant markets, and the city's dynamic nightlife",
+            "price":"30",
+            "duration":"2 Hours"
+        },
+        {
+            "title":"The Sweet Tooth Experience",
+            "image":"/img/homepage/art.jpg",
+            "text":"Indulge your sweet cravings with our Sweet Tooth Experience. Sample a delectable array of Kolkata's famous sweets and desserts, from rosogolla to sandesh, and discover why Kolkata is a dessert lover's paradise",
+            "price":"30",
+            "duration":"2 Hours"
+        }
+    ]
+}

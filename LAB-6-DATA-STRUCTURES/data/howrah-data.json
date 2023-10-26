@@ -1,0 +1,96 @@
+{
+    "title":"Howrah Bridge",
+    "description":"Step into a world of engineering marvel and cultural significance at the Howrah Bridge in Kolkata. This iconic bridge not only connects two sides of the city but also bridges the gap between history and modernity, making it a must-visit destination for all travelers. It's not just a bridge; it's a connection to the heart and soul of Kolkata, inviting you to explore its storied past and the dynamic present.",
+    "slideshow":[
+        "/img/slides/howrah/how1.jpg",
+        "/img/slides/howrah/how2.jpg",
+        "/img/slides/howrah/how3.jpg"
+    ],
+    "services":[
+        {
+            "title":"Howrah Bridge + Flower Market",
+            "intro":"A kaleidoscope of colors and fragrances awaits you as you explore this captivating flower market under the bridge, where the essence of the city comes to life in a riot of blooms and local culture.",
+            "lists":[
+                "Capture the stunning visuals of the colorful blooms and lively atmosphere",
+                "Explore the market's variety of flowers, garlands, and decorative items.",
+                "Learn about the cultural and religious significance of various flowers"
+            ],
+            "image":"/img/homepage/howrah/flowers.jpg",
+            "show":"show"
+        },
+        {
+            "title":"Hire a photographer",
+            "intro":"We understand the significance of preserving your memories, and our professional photographers are here to ensure that every moment is beautifully captured, allowing you to relive the splendor of your visit for years to come.",
+            "lists":[
+                "Showcase the beauty and essence of th monument",
+                "Best vantage points and hidden spots around the Memorial",
+                "Receive a collection of high-resolution, professionally edited images"
+            ],
+            "image":"/img/homepage/howrah/photographer.jpg"
+        },
+        {
+            "title":"Book your transportation",
+            "intro":"Your journey to the Howrah Bridge is made seamless with our transportation services. We arrange convenient rides, ensuring easy access to this historical masterpiece.",
+            "lists":[
+                "Choose from a variety of transportation options",
+                "Navigate easily through the city's harsh traffic",
+                "Rest assured with our reliable and safe transportation"
+            ],
+            "image":"/img/homepage/howrah/cars.jpg"
+        },
+        {
+            "title":"Learn from an educational guide",
+            "intro":"Every true traveler has a thirst for knowledge, and our guides are here to quench it. Immerse yourself in the history, art, and culture of this iconic bridge through engaging and educational insights",
+            "lists":[
+                "Learn historical and cultural insights that bring this magnificent landmark to life",
+                "Enjoy a tour filled with captivating stories and narratives",
+                "Engage in Q&A sessions, discussions, and interactive elements"
+            ],
+            "image":"/img/homepage/howrah/tourguide.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Historical Bridge Tour",
+            "image":"/img/homepage/howrah/historical.jpg",
+            "text":"Explore the rich history and architectural significance of the Howrah Bridge with an informative guided tour. Discover the stories behind its construction, the challenges faced, and its role in connecting two iconic cities.",
+            "price":"15",
+            "duration":"30 mins"
+        },
+        {
+            "title":"Sunset River Cruise",
+            "image":"/img/homepage/howrah/cruise.jpg",
+            "text":"Enjoy a picturesque sunset cruise on the Hooghly River with the Howrah Bridge as your backdrop. Experience the bridge's grandeur while savoring the changing hues of the sky at dusk.",
+            "price":"75",
+            "duration":"2.5 Hours"
+        },
+        {
+            "title":"Photography Expedition",
+            "image":"/img/homepage/howrah/photo.jpg",
+            "text":"Join a photography expedition with professional photographers who can guide you in capturing the best shots of the Howrah Bridge. Learn techniques to capture its beauty from different angles and perspectives.",
+            "price":"15",
+            "duration":"1 hour"
+        },
+        {
+            "title":"Bridge and Beyond",
+            "image":"/img/homepage/howrah/beyond.jpg",
+            "text":"Combine your Howrah Bridge visit with exploration of other iconic landmarks, such as the busy flower market under the bridge or the tourist spots in the ciy of Howrah including museums and botanical gardens",
+            "price":"50-100",
+            "duration":"2-5 Hours"
+        },
+        {
+            "title":"Art and History Appreciation",
+            "image":"/img/homepage/howrah/history.jpg",
+            "text":"Dive into the art and history of the Howrah Bridge with curated exhibitions and discussions about its significance. Gain a deeper understanding of the bridge's role in Kolkata's heritage.",
+            "price":"20",
+            "duration":"1 Hour"
+        },
+        {
+            "title":"Heritage Walk and Market Tour",
+            "image":"/img/homepage/howrah/market.jpg",
+            "text":"Take a guided heritage walk that includes visits to the Flower Market under the bridge and a stroll along the historic streets. Discover the local life and traditions around the Howrah Bridge.",
+            "price":"20",
+            "duration":"1 Hour"
+        }
+    ]
+}

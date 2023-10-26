@@ -1,0 +1,96 @@
+{
+    "title":"Victoria Memorial",
+    "description":"Step into a world of grandeur and history at the Victoria Memorial in Kolkata. This majestic white marble monument is a portal to the city's colonial past, surrounded by serene gardens. Immerse yourself in the rich heritage of Kolkata through its extensive collection of art and historical exhibits. Your journey through time begins here at the Victoria Memorial",
+    "slideshow":[
+        "/img/slides/victoria/vic1.jpg",
+        "/img/slides/victoria/vic2.jpg",
+        "/img/slides/victoria/vic3.jpg"
+    ],
+    "services":[
+        {
+            "title":"Ticket Reservations",
+            "intro":"Save time and ensure entry to the Victoria Memorial with our convenient ticket reservation service. Say goodbye to long queues and enjoy easy access to this historical gem.",
+            "lists":[
+                "Enjoy our reserved tickets even at peak tourist traffic",
+                "Gain access to exclusive photography locations and viewpoints",
+                "Get VIP Queue tickets for the group"
+            ],
+            "image":"/img/homepage/victoria/tickets.jpg",
+            "show":"show"
+        },
+        {
+            "title":"Hire a photographer",
+            "intro":"We understand the significance of preserving your memories, and our professional photographers are here to ensure that every moment is beautifully captured, allowing you to relive the splendor of your visit for years to come.",
+            "lists":[
+                "Showcase the beauty and essence of th monument",
+                "Best vantage points and hidden spots around the Memorial",
+                "Receive a collection of high-resolution, professionally edited images"
+            ],
+            "image":"/img/homepage/victoria/photographer.jpg"
+        },
+        {
+            "title":"Book your transportation",
+            "intro":"Your journey to the Victoria Memorial is made seamless with our transportation services. We arrange convenient rides, ensuring easy access to this historical masterpiece.",
+            "lists":[
+                "Choose from a variety of transportation options",
+                "Navigate easily through the city's harsh traffic",
+                "Rest assured with our reliable and safe transportation"
+            ],
+            "image":"/img/homepage/victoria/cars.jpg"
+        },
+        {
+            "title":"Learn from an educational guide",
+            "intro":"Every true traveler has a thirst for knowledge, and our guides are here to quench it. Immerse yourself in the history, art, and culture of this iconic monument through engaging and educational insights",
+            "lists":[
+                "Learn historical and cultural insights that bring this magnificent landmark to life",
+                "Enjoy a tour filled with captivating stories and narratives",
+                "Engage in Q&A sessions, discussions, and interactive elements"
+            ],
+            "image":"/img/homepage/victoria/tourguide.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"One-day Victoria Memorial Tour",
+            "image":"/img/homepage/victoria/oneday.jpg",
+            "text":"Experience the epitome of Kolkata's heritage in a single day with this package. Immerse yourself in history, culture, and art, as you explore this iconic monument and its surroundings.",
+            "price":"70",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Half-day Victoria Memorial Tour",
+            "image":"/img/homepage/victoria/halfday.jpg",
+            "text":"Experience the grandeur of Kolkata's historical legacy with a half-day tour, where you'll delve into the rich history, architecture, and art of this iconic monument.",
+            "price":"35",
+            "duration":"6 Hours"
+        },
+        {
+            "title":"Photographer session",
+            "image":"/img/homepage/victoria/photo.jpg",
+            "text":"Preserve your memories with a professional photography session set against the backdrop of the iconic Victoria Memorial. Capture the beauty and significance of your visit in timeless, stunning photographs.",
+            "price":"20 per 30 mins",
+            "duration":"30 mins/ 60 mins"
+        },
+        {
+            "title":"Personal guide tour",
+            "image":"/img/homepage/victoria/guide.jpg",
+            "text":"Embark on an enriching journey with a personal guide who will unveil the secrets, history, and cultural significance of the Victoria Memorial in Kolkata, making your visit truly memorable.",
+            "price":"35",
+            "duration":"1 Hour"
+        },
+        {
+            "title":"Sports @ Victoria",
+            "image":"/img/homepage/victoria/sport.jpg",
+            "text":"Join us for our weekly sport competitions out on the soft and luscious lawns of the Victoria Memorial. Get to compete in games like badminton, volleyball, frisbee, etc. with friends and strangers.",
+            "price":"5 per game",
+            "duration":"Sundays 8am-8pm"
+        },
+        {
+            "title":"Meditation @ Victoria",
+            "image":"/img/homepage/victoria/meditate.jpg",
+            "text":"Find tranquility amidst history with our meditation experience at this iconic destination. Discover inner peace as you immerse yourself in serene surroundings.",
+            "price":"15",
+            "duration":"30mins"
+        }
+    ]
+}

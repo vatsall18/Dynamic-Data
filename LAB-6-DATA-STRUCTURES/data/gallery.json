@@ -1,0 +1,69 @@
+{
+ "images":[
+    { 
+    "url":"/img/gallery/gallery_1.jpeg",
+    "title":"Sculptor at work"
+    },
+    { 
+        "url":"/img/gallery/gallery_2.jpeg",
+        "title":"Crowds during Durga Puja"
+        },
+        { 
+    "url":"/img/gallery/gallery_3.jpeg",
+    "title":"Elephant at Alipore Zoo"
+    },
+    { 
+        "url":"/img/gallery/gallery_4.jpeg",
+        "title":"Vibrant colors in the city"
+        },
+        { 
+    "url":"/img/gallery/gallery_5.jpeg",
+    "title":"Red building exterior"
+    },
+    { 
+        "url":"/img/gallery/gallery_6.jpeg",
+        "title":"Howrah Bridge in the day"
+        },
+        { 
+    "url":"/img/gallery/gallery_7.jpeg",
+    "title":"The Victoria Memorial"
+    },
+    { 
+        "url":"/img/gallery/gallery_8.jpeg",
+        "title":"Daily traffic at the Howrah Bridge"
+        },
+        { 
+    "url":"/img/gallery/gallery_9.jpeg",
+    "title":"ITC Royal Bengal Hotel"
+    },
+    { 
+        "url":"/img/gallery/gallery_10.jpeg",
+        "title":"Outside the Victoria Memorial"
+        },
+        { 
+    "url":"/img/gallery/gallery_11.jpeg",
+    "title":"Sunset at Victoria Memorial"
+    },
+    { 
+        "url":"/img/gallery/gallery_12.jpeg",
+        "title":"Inside look at the Dome of the Victoria Memorial"
+        },
+        { 
+    "url":"/img/gallery/gallery_13.jpeg",
+    "title":"St. Paul's Cathedral"
+    },
+    { 
+        "url":"/img/gallery/gallery_14.jpeg",
+        "title":"House of Badan Roy"
+        },
+        { 
+    "url":"/img/gallery/gallery_15.jpeg",
+    "title":"Vibrant colors in the city"
+    },
+    { 
+        "url":"/img/gallery/gallery_16.jpeg",
+        "title":"Kolkata's iconic Yellow Taxi"
+        }
+                                    
+ ]   
+}
