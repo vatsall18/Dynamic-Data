@@ -1,6 +1,6 @@
 {
-    "title":"Victoria Memorial",
-    "description":"Step into a world of grandeur and history at the Victoria Memorial in Kolkata. This majestic white marble monument is a portal to the city's colonial past, surrounded by serene gardens. Immerse yourself in the rich heritage of Kolkata through its extensive collection of art and historical exhibits. Your journey through time begins here at the Victoria Memorial",
+    "title":"Durga Puja",
+    "description":"Step into a world of dazzling festivities and devotion as you join us to celebrate the grandeur of Durga Puja in Kolkata. This iconic festival, known for its magnificent idols, vibrant processions, and cultural rituals, promises an unforgettable experience that immerses you in the heart of Bengal's rich heritage and spirituality",
     "slideshow":[
         "/img/slides/puja/durga1.jpg",
         "/img/slides/puja/durga2.jpg",
@@ -8,7 +8,7 @@
     ],
     "services":[
         {
-            "title":"Plan your Itinerary with an agent",
+            "title":"VIP Access Passes",
             "intro":"We understand that every traveler is unique, and we're here to ensure your trip is tailor-made to your desires and interests. Let our expert travel agents transform your visit into an unforgettable journey through the City of Joy.",
             "lists":[
                 "Craft a detailed and customized itinerary",
@@ -19,7 +19,7 @@
             "show":"show"
         },
         {
-            "title":"Get a local guide",
+            "title":"Cultural Exhibitions",
             "intro":"There's no better way to explore the heart and soul of the city than with a knowledgeable local guide by your side. Our guides are passionate about sharing their insights, stories, and hidden gems, ensuring your visit to Kolkata is not just a trip, but an unforgettable journey.",
             "lists":[
                 "Curate personalized tours based on your interests,",
@@ -29,7 +29,7 @@
             "image":"/img/homepage/guide.jpg"
         },
         {
-            "title":"Book your vacation transportation",
+            "title":"Traditional Attire Rental",
             "intro":"We ensure a seamless and stress-free journey to and from your destination.Sit back, relax, and let us take care of the logistics, so you can focus on making cherished memories during your vacation",
             "lists":[
                 "Only get the most convenient and cost-effective flights or train tickets",
@@ -39,7 +39,7 @@
             "image":"/img/homepage/cars.jpg"
         },
         {
-            "title":"Learn about your destination",
+            "title":"Transportation",
             "intro":"We believe that understanding the history, culture, and local nuances of your destination enriches your journey. Our aim is to equip you with knowledge that enhances your appreciation of the places you visit, creating a well-rounded and immersive travel adventure",
             "lists":[
                 "Attend cultural workshops and classes",
@@ -51,42 +51,42 @@
     ],
     "packages":[
         {
-            "title":"Two-Day Kolkata City Tour",
+            "title":"Pandal Hopping Extravaganza",
             "image":"/img/homepage/twoday.jpg",
             "text":"Experience the best of Kolkata in just two unforgettable days. Let us take you on a whirlwind journey through this vibrant city, ensuring you don't miss a single moment of its charm.",
             "price":"150",
             "duration":"2 Days"
         },
         {
-            "title":"One-Day Kolkata City Tour",
+            "title":"Cultural Immersion Package",
             "image":"/img/homepage/oneday.jpg",
             "text":"Discover the heart of Kolkata in one day with our all-inclusive city tour. We've condensed the city's essence into a whirlwind adventure, taking you to its most iconic landmarks and introducing you to its rich culture and flavor.",
             "price":"75",
             "duration":"1 Day"
         },
         {
-            "title":"Explore the Victoria Memorial",
+            "title":"Art and Craft Workshops",
             "image":"/img/homepage/victoria.jpg",
             "text":"This immersive tour takes you through the splendid Victoria Memorial, a symbol of the city's colonial past. Discover its captivating history and art collection, surrounded by well-manicured gardens.",
             "price":"30",
             "duration":"2-5 Hours"
         },
         {
-            "title":"Visit the Howrah Bridge",
+            "title":"Puja Photography Tour",
             "image":"/img/homepage/howrah.jpg",
             "text":"Explore the architectural marvel that is the Howrah Bridge, an emblem of the city's bustling charm. A journey through history and culture, this tour showcases the bridge's grandeur and its significance in Kolkata's vibrant tapestry",
             "price":"20",
             "duration":"2-3 Hours"
         },
         {
-            "title":"Street Food Tour",
+            "title":"Cultural Performances Showcase",
             "image":"/img/homepage/streetfood.jpg",
             "text":"Savor the flavors of Kolkata as you traverse the bustling streets, sampling local delicacies like phuchka, kathi rolls, and more. Join us to discover the city's culinary soul, one delicious bite at a time",
             "price":"80",
             "duration":"4-6 Hours"
         },
         {
-            "title":"Art and History of Kolkata",
+            "title":"Culinary Delights Experience",
             "image":"/img/homepage/art.jpg",
             "text":"Explore the city's rich heritage through visits to renowned landmarks like the Indian Museum, Marble Palace, and South Park Street Cemetery. Let us guide you through the chapters of Kolkata's fascinating story.",
             "price":"100",
