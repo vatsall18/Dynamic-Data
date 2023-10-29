@@ -9,88 +9,88 @@
     "services":[
         {
             "title":"VIP Access Passes",
-            "intro":"We understand that every traveler is unique, and we're here to ensure your trip is tailor-made to your desires and interests. Let our expert travel agents transform your visit into an unforgettable journey through the City of Joy.",
+            "intro":"Elevate your Durga Puja experience with VIP passes. Enjoy the ultimate convenience of priority entry to pandals, reserved seating, and an exclusive journey through the heart of this iconic festival.",
             "lists":[
-                "Craft a detailed and customized itinerary",
-                "Make restaurant and transportation reservations",
-                "Gain exclusive access to tourist spots and events"
+                "Skip the long queues and enjoy swift entry everywhere",
+                "Experience the grandeur from reserved seating areas",
+                "Access invite-only gatherings and performances"
             ],
-            "image":"/img/homepage/itinerary.jpg",
+            "image":"/img/homepage/puja/vip.jpg",
             "show":"show"
         },
         {
             "title":"Cultural Exhibitions",
-            "intro":"There's no better way to explore the heart and soul of the city than with a knowledgeable local guide by your side. Our guides are passionate about sharing their insights, stories, and hidden gems, ensuring your visit to Kolkata is not just a trip, but an unforgettable journey.",
+            "intro":"Delve into the heart and soul of Durga Puja. Immerse yourself in the rich traditions and artistic expressions that define this iconic festival and gain a deeper appreciation for its cultural significance.",
             "lists":[
-                "Curate personalized tours based on your interests,",
-                "Get context and anecdotes that breathe life into the city's heritage",
-                "Language assistance with locals"
+                "See the artistry and craftsmanship behind Durga Puja idols and pandals",
+                "Discover the historical context and evolution of Durga Puja",
+                "Engage with interactive displays and multimedia exhibits"
             ],
-            "image":"/img/homepage/guide.jpg"
+            "image":"/img/homepage/puja/exhibition.jpg"
         },
         {
             "title":"Traditional Attire Rental",
-            "intro":"We ensure a seamless and stress-free journey to and from your destination.Sit back, relax, and let us take care of the logistics, so you can focus on making cherished memories during your vacation",
+            "intro":"Experience the magic of Durga Puja in authentic style. Immerse yourself in the rich culture and traditions of Bengal by adorning exquisite, handcrafted attire.",
             "lists":[
-                "Only get the most convenient and cost-effective flights or train tickets",
-                "Arrive in style with our airport and railway station transfer services",
-                "Get car rentals/chauffeur-driven vehicles/public transit guidance"
+                "Embrace the elegance of traditional Bengali attire",
+                "Receive assistance from experts",
+                "Capture stunning photographs in your traditional attire"
             ],
-            "image":"/img/homepage/cars.jpg"
+            "image":"/img/homepage/puja/attire.jpg"
         },
         {
             "title":"Transportation",
-            "intro":"We believe that understanding the history, culture, and local nuances of your destination enriches your journey. Our aim is to equip you with knowledge that enhances your appreciation of the places you visit, creating a well-rounded and immersive travel adventure",
+            "intro":"Seamless and comfortable transportation is the key to fully enjoying Durga Puja in Kolkata. Our service ensures you experience the festival without any logistical hassles.",
             "lists":[
-                "Attend cultural workshops and classes",
-                "Get briefed on the history, traditions, and customs of your chosen destination",
-                "Learn the local language"
+                "Enjoy the convenience of hassle-free pick-up and drop-off services",
+                "Benefit from knowledgeable local drivers",
+                "Customize your transportation itinerary"
             ],
-            "image":"/img/homepage/learn.jpg"
+            "image":"/img/homepage/puja/cars.jpg"
         }
     ],
     "packages":[
         {
             "title":"Pandal Hopping Extravaganza",
-            "image":"/img/homepage/twoday.jpg",
-            "text":"Experience the best of Kolkata in just two unforgettable days. Let us take you on a whirlwind journey through this vibrant city, ensuring you don't miss a single moment of its charm.",
-            "price":"150",
-            "duration":"2 Days"
+            "image":"/img/homepage/puja/hopping.jpg",
+            "text":"Immerse yourself in the grandeur of Durga Puja as you explore the most stunning pandals, each a unique work of art, and bask in the festive spirit that engulfs Kolkata during this spectacular celebration.",
+            "price":"100",
+            "duration":"6 Hours"
         },
         {
             "title":"Cultural Immersion Package",
-            "image":"/img/homepage/oneday.jpg",
-            "text":"Discover the heart of Kolkata in one day with our all-inclusive city tour. We've condensed the city's essence into a whirlwind adventure, taking you to its most iconic landmarks and introducing you to its rich culture and flavor.",
+            "image":"/img/homepage/puja/culture.jpg",
+            "text":"Immerse yourself in the vibrant rituals, traditional dances, and authentic Bengali flavors, allowing you to celebrate this iconic festival like a local.",
             "price":"75",
-            "duration":"1 Day"
+            "duration":"3 Hours"
         },
         {
             "title":"Art and Craft Workshops",
-            "image":"/img/homepage/victoria.jpg",
-            "text":"This immersive tour takes you through the splendid Victoria Memorial, a symbol of the city's colonial past. Discover its captivating history and art collection, surrounded by well-manicured gardens.",
-            "price":"30",
-            "duration":"2-5 Hours"
+            "image":"/img/homepage/puja/craft.jpg",
+            "text":"Unlock your artistic side and delve into the world of Durga Puja's creative expressions with this package. Learn the ancient techniques of idol-making and craft your own clay sculptures.",
+            "price":"50",
+            "duration":"2 Hours"
         },
         {
             "title":"Puja Photography Tour",
-            "image":"/img/homepage/howrah.jpg",
-            "text":"Explore the architectural marvel that is the Howrah Bridge, an emblem of the city's bustling charm. A journey through history and culture, this tour showcases the bridge's grandeur and its significance in Kolkata's vibrant tapestry",
+            "image":"/img/homepage/puja/photo.jpg",
+            "text":"Join professional photographers and explore the artistic expressions, colors, and emotions of this grand festival, ensuring that your memories are beautifully preserved.",
             "price":"20",
-            "duration":"2-3 Hours"
+            "duration":"2 Hours"
         },
         {
             "title":"Cultural Performances Showcase",
-            "image":"/img/homepage/streetfood.jpg",
-            "text":"Savor the flavors of Kolkata as you traverse the bustling streets, sampling local delicacies like phuchka, kathi rolls, and more. Join us to discover the city's culinary soul, one delicious bite at a time",
-            "price":"80",
-            "duration":"4-6 Hours"
+            "image":"/img/homepage/puja/performance.jpg",
+            "text":"Immerse yourself in the vibrant traditions of Bengal as you witness captivating dances, music, and theatrical performances that bring the festival to life.",
+            "price":"25",
+            "duration":"2 Hours"
         },
         {
             "title":"Culinary Delights Experience",
-            "image":"/img/homepage/art.jpg",
-            "text":"Explore the city's rich heritage through visits to renowned landmarks like the Indian Museum, Marble Palace, and South Park Street Cemetery. Let us guide you through the chapters of Kolkata's fascinating story.",
-            "price":"100",
-            "duration":"1 Day"
+            "image":"/img/homepage/puja/food.jpg",
+            "text":"Savor the culinary treasures of Durga Puja. Indulge in a feast of delectable Bengali sweets, street food, and traditional dishes that define the festive flavors of Kolkata during this grand celebration.",
+            "price":"30",
+            "duration":"1 Hour"
         }
     ]
 }
