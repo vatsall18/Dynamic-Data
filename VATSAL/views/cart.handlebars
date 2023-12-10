@@ -1,0 +1,20 @@
+{{#each cartProducts}}
+<div class="cart-item">
+    <div class="item-image">
+        {{#each images}} {{#if @first}} 
+        <img src="{{this.src}}" class="img-fluid rounded-start" alt="{{this.name}}" width="100px">
+        {{/if}} {{/each}}
+    </div>
+    <div class="item-info">
+        <ul>
+            <li><strong>Name:</strong> {{this.name}}</li>
+            <li><strong>Price:</strong> ${{this.price}}</li>
+            <li><strong>Description:</strong> {{this.description}}</li>
+        </ul>
+    </div>
+</div>
+{{/each}}
+
+<form action="/checkout" method="get">
+    <button type="submit">Check Out</button>
+    </form>

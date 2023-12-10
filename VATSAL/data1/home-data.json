@@ -1,0 +1,91 @@
+{
+    "title":"Welcome To Vatsal's",
+    "description":"Welcome to Vatsal's, where personal style takes center stage! 🌟 Immerse yourself in a world of curated fashion that reflects my unique taste and individuality. I believe that clothing is an art form, an expression of personality, and a celebration of individuality. This collection is meticulously selected to showcase a fusion of timeless classics, contemporary trends, and hidden gems that resonate with my distinct style.",
+    "slideshow":[
+        {"image": "/img/slides/leisure/casualcomfort1.png", "link": "/casualcomfort"},
+        {"image": "/img/slides/urban/urbanedge1.png", "link": "/urbanedge"},
+        {"image": "/img/slides/smart/smartsoph1.png", "link": "/smartsoph"},
+        {"image": "/img/slides/leisure/casualcomfort2.png", "link": "/casualcomfort"},
+        {"image": "/img/slides/urban/urbanedge2.png", "link": "/urbanedge"},
+        {"image": "/img/slides/smart/smartsoph2.png", "link": "/smartsoph"},
+        {"image": "/img/slides/leisure/casualcomfort3.png", "link": "/casualcomfort"},
+        {"image": "/img/slides/urban/urbanedge3.png", "link": "/urbanedge"},
+        {"image": "/img/slides/smart/smartsoph3.png", "link": "/smartsoph"}
+    ],
+    "featuredproducts":[
+        {
+            "title":"Brushed Sweater",
+            "image":"/img/leisure/brushed1.jpg",
+            "link": "/product/9",
+            "text":"Featured Product",
+            "price":"99.99",
+            "type":"Casual Comfort"
+
+        },
+        {
+            "title":"Camo Printed Long Sleeve Tee",
+            "image":"/img/urban/camotee1.jpg",
+            "link": "/product/14",
+            "text":"Featured Product",
+            "price":"49.99",
+            "type":"Urban Edge"
+
+        },
+        {
+            "title":"Marni Fussbett Sabo",
+            "image":"/img/leisure/marnishoes1.jpg",
+            "link": "/product/12",
+            "text":"Featured Product",
+            "price":"129.99",
+            "type":"Casual Comfort"
+
+        },
+        {
+            "title":"Reversible Sweater Vest",
+            "image":"/img/smart/vest1.jpg",
+            "link": "/product/33",
+            "text":"Featured Product",
+            "price":"89.99",
+            "type":"Smart Sophistication"
+
+        },
+        {
+            "title":"Blue Denim Jacket",
+            "image":"/img/urban/denimjacket1.jpg",
+            "text":"Featured Product",
+            "link": "/product/17",
+            "price":"109.99",
+            "type":"Urban Edge"
+
+        },
+        {
+            "title":"Zip Boots",
+            "image":"/img/smart/zipboots1.jpg",
+            "text":"Featured Product",
+            "link": "/product/32",
+            "price":"99.99",
+            "type":"Urban Edge"
+
+        }
+    ],
+    "categorys":[
+        { 
+            "image":"/img/slides/leisure/casualcomfort1.png",
+            "link":"/category/casualcomfort",
+            "title":"Casual Comfort",
+            "subtitle":"Category"
+        },
+        {
+            "image":"/img/slides/urban/urbanedge1.png",
+            "link":"/category/urbanedge",
+            "title":"Urban Edge",
+            "subtitle":"Category"
+        },
+        {
+            "image":"/img/slides/smart/smartsoph2.png",
+            "link":"/category/smartsoph",
+            "title":"Smart Sophistication",
+            "subtitle":"Category "
+        }
+    ]
+}

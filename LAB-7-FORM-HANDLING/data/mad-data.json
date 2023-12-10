@@ -1,23 +1,23 @@
 {"fields":[
     {
         "type":"text",
-        "name":"adjective_1",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
-        "name":"adjective_2",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
-        "name":"adjective_3",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
         "name":"noun_1",
         "desc":"Noun"
+    },    
+    {
+        "type":"text",
+        "name":"verb_1",
+        "desc":"Verb"
+    },
+    {
+        "type":"text",
+        "name":"verb_2",
+        "desc":"Verb"
+    },
+    {
+        "type":"text",
+        "name":"noun_plural_1",
+        "desc":"Noun (Plural)"
     },
     {
         "type":"text",
@@ -26,13 +26,21 @@
     },
     {
         "type":"text",
-        "name":"verb_ending_in_ed_1",
-        "desc":"Verb ending in ed"
+        "name":"noun_plural_2",
+        "desc":"Noun (Plural)"
+
+    },
+    {
+        "type":"text",
+        "name":"noun_plural_3",
+        "desc":"Noun (Plural)"
+
     },
     {
         "type":"text",
         "name":"noun_3",
         "desc":"Noun"
+
     },
     {
         "type":"text",
@@ -41,8 +49,68 @@
     },
     {
         "type":"text",
-        "name":"place",
-        "desc":"Place"
+        "name":"verb_ending_ed_1",
+        "desc":"Verb Ending in ED"
+    },
+    {
+        "type":"text",
+        "name":"adjective_1",
+        "desc":"Adjective"
+    },
+    {
+        "type":"text",
+        "name":"person_1",
+        "desc":"Person"
+    },
+    {
+        "type":"text",
+        "name":"adjective_2",
+        "desc":"Adjective"
+    },
+    {
+        "type":"text",
+        "name":"emotion_1",
+        "desc":"Emotion"
+    },
+    {
+        "type":"text",
+        "name":"verb_ending_ed_2",
+        "desc":"Verb Ending in ED"
+    },
+    {
+        "type":"text",
+        "name":"noun_3",
+        "desc":"Noun"
+    },
+    {
+        "type":"text",
+        "name":"verb_3",
+        "desc":"Verb"
+    },
+    {
+        "type":"text",
+        "name":"verb_4",
+        "desc":"Verb"
+    },
+    {
+        "type":"text",
+        "name":"noun_4",
+        "desc":"Noun"
+    },
+    {
+        "type":"text",
+        "name":"verb_5",
+        "desc":"Verb"
+    },
+    {
+        "type":"text",
+        "name":"emotion_2",
+        "desc":"Emotion"
+    },
+    {
+        "type":"text",
+        "name":"verb_ending_ed_3",
+        "desc":"Verb Ending in ED"
     },
     {
         "type":"text",
@@ -51,13 +119,8 @@
     },
     {
         "type":"text",
-        "name":"adjective_4",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
-        "name":"verb_ending_in_ing",
-        "desc":"Verb ending in ing"
+        "name":"adverb_1",
+        "desc":"Adverb"
     },
     {
         "type":"text",
@@ -66,37 +129,18 @@
     },
     {
         "type":"text",
-        "name":"verb_ending_in_ed_2",
-        "desc":"Verb ending in ed"
-    },
-    {
-        "type":"text",
-        "name":"adverb",
+        "name":"adverb_2",
         "desc":"Adverb"
     },
     {
         "type":"text",
-        "name":"plural_noun",
-        "desc":"Plural Noun"
+        "name":"noun_7",
+        "desc":"Noun"
     },
     {
         "type":"text",
-        "name":"adjective_5",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
-        "name":"adjective_6",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
-        "name":"adjective_7",
-        "desc":"Adjective"
-    },
-    {
-        "type":"text",
-        "name":"female_name",
-        "desc":"Female Name"
+        "name":"verb_ending_ed_4",
+        "desc":"Verb Ending in ED"
     }
+
 ]}

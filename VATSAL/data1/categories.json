@@ -1,0 +1,17 @@
+{"categories":[
+    {
+        "name":"Casual Comfort",
+        "url":"casualcomfort",
+        "image": "/img/slides/leisure/casualcomfort1.png"
+    },    
+    {
+        "name":"Urban Edge",
+        "url":"urbanedge",
+        "image": "/img/slides/urban/urbanedge1.png"
+    },
+    {
+        "name":"Smart Sophistication",
+        "url":"smartsophistication",
+        "image": "/img/slides/smart/smartsoph2.png"
+    }
+]}

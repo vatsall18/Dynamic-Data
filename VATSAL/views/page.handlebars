@@ -1,0 +1,47 @@
+<div class="section-divider" id="about"></div>
+<h1 class="primary-color-light kanit-medium">{{data.title}}</h1>
+<p>{{data.description}}</p>
+
+{{#if data.featuredproducts}}
+<div class="section-divider" id="packages"></div>
+<h2 class="kanit-medium">Featured Products</h2>
+<div class="owl-carousel owl-theme owl-packages">
+{{#each data.featuredproducts}}
+<div class="card">
+  {{#if this.image}}
+  <img src="{{this.image}}" class="card-img-top" alt="..."> 
+  {{/if}}
+  <div class="card-body">
+    <h5><a href="{{this.link}}" class="card-title">{{this.title}}</a></h5>
+    <p class="card-text">{{this.text}}</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">${{this.price}}</li>
+    <li class="list-group-item">{{this.type}}</li>
+  </ul>
+</div>
+{{/each}}
+</div>
+{{/if}}
+
+{{#if data.categorys}}
+<div class="section-divider" id="services"></div>
+<h2 class="kanit-medium">Categories</h2>
+<div class="row row-cols-3">
+  {{#each data.categorys}}
+    <div class="card">
+      <img src="{{this.image}}" class="..." alt="Category Img">   
+      <div class="card-body">
+        <h5><a href="{{this.link}}" class="card-title">{{this.title}}</a></h5>
+      </div>
+    </div>
+  {{/each}}
+</div>
+</div>
+{{/if}}
+
+<div class="section-divider" id="services"></div>
+<footer class="color-darkblue-bg color-white">
+  For CIM453 by Vatsal Lahoti
+</footer>
+

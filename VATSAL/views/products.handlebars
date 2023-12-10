@@ -1,0 +1,42 @@
+
+{{#each products}}
+<div class="card mb-3" style="max-width: 1080px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+    {{#each images}} {{#if @first}} 
+      <img src="{{this.src}}" class="img-fluid rounded-start" alt="{{this.name}}">
+    {{/if}} {{/each}}
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{this.name}}</h5> <br>
+        <ul>
+            <li><p class="card-text">{{this.description}}</p></li>
+            <li><p class="card-text">$ {{this.price}}</p></li>
+        </ul>
+        <form action="/cart" method="post">
+            <input name="product" type="hidden" value="{{id}}" >
+            <button type="submit">Add to Cart</button>
+        </form>
+        <div class="section-divider" id="packages"></div>
+      </div>
+    </div>
+  </div>
+  <div class="card-group" style="max-width: 840px;">
+        {{#each images}}    
+        <div class="card">
+            <img src="{{this.src}}" class="card-img-top" style="width:210px;height:210px;" alt="{{this.name}}">
+        </div>
+        {{/each}}
+   </div>
+</div>
+<div class="section-divider"></div>
+<h3 class="kanit-medium">Similar Products</h3>
+<div class="card-group" style="max-width: 1440px;">
+        {{#each recommended}}    
+        <div class="card">
+            <a href="{{this.link}}"><img src="{{this.src}}" class="card-img-top" style="width:210px;height:210px;" alt="{{this.name}}"></a>
+        </div>
+        {{/each}}
+   </div>
+{{/each}}

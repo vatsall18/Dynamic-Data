@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;500&family=Poppins:wght@200;400;500;600&display=swap');
+
+.kanit-light { font-family: 'Kanit', sans-serif; font-weight: 300;}
+.kanit-medium { font-family: 'Kanit', sans-serif; font-weight: 500;}
+.kanit-navbar { font-family: 'Kanit', sans-serif; font-weight: 500; font-size: 15pt;}
+
+.poppins-light { font-family: 'Poppins', sans-serif; font-weight: 200;}
+.poppins-medium { font-family: 'Poppins', sans-serif; font-weight: 400;}
+.poppins-bold { font-family: 'Poppins', sans-serif; font-weight: 600;}
+
+
+body {
+    scroll-behavior: smooth;
+}
+
+
+.color-white {
+    color: white;
+}
+.color-white-bg {
+    background-color: white;
+}
+
+
+.color-black{
+    color: black;
+}
+.color-black-bg{
+    background-color: black;
+}
+
+
+.color-blue, nav .color-black:hover{
+    color:#0f3499;
+}
+.color-darkblue-bg {
+    background-color: #07194c;
+}
+
+
+.accordion-button:not(.collapsed) {
+    color: white;
+    background-color: black;
+  }
+
+
+/* Remove owl-nav previous and next buttons*/
+.owl-nav {
+    display: none;
+}
+.owl-stage-outer {
+    position:relative;
+    z-index:10;
+}
+
+.owl-dots {
+    position:relative;
+    z-index:99;
+    margin-top:-35px;
+}
+
+.section-divider {
+    padding: 1rem;
+}
+
+.gallery-img img {
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio: 1 / 1; 
+}
+
+footer {
+    padding: 3rem;
+}
+
+.custom-card {
+    max-width: 300px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+
+.cart-item {
+    display: flex;
+    border: 1px solid #ddd; 
+    margin: 10px; 
+}
+
+.item-image {
+    padding: 10px; 
+    border-right: 1px solid #ddd; 
+}
+
+.item-info {
+    padding: 10px; 
+}
+
+.item-info ul {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+}
+
+.product-image-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+
+.main-content {
+    margin-bottom: 20px; 
+}

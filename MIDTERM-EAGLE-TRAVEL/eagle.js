@@ -39,6 +39,7 @@ app.get('/howrah',(req,res)=>{
     var data = require('./data/howrah-data.json')
     res.render('page',{ data,gallery })
 })
+
 app.get('/durgapuja',(req,res)=>{
     var data = require('./data/durgapuja-data.json')
     res.render('page',{ data,gallery })

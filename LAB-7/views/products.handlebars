@@ -1,0 +1,22 @@
+
+{{#each products}}
+<ul>
+    <li><strong>Name: </strong> {{this.name}} </li>
+    <li><strong>Description: </strong> {{this.description}}</li>
+    <li><strong>Price: </strong> 
+   $ {{this.price}}
+    <br> {{#each images}} {{#if @first}} Main Image {{this.src}}<br> {{/if}} {{/each}}
+
+    {{#each this.images}} 
+    {{this.src}}<br>
+    {{/each}}
+     </li>
+</ul>
+
+<form action="/cart" method="post">
+<input name="product" type="text" value="{{this.id}}" >
+<button type="submit">Add to Cart</button>
+</form>
+
+{{/each}}
+
